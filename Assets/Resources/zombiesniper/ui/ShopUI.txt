@@ -14,9 +14,9 @@
 		
 		<UIText name="txtInnocents" text="0" rect="45,289,100,20" autoline="false" align="left" visible="true" layer="3" font="037_8" fontHD="037_16" color="202,135,21,255">
 		</UIText>
-		<UIText name="txtGold" text="0" rect="120,289,100,20" autoline="false" align="left" visible="true" layer="3" font="037_8" fontHD="037_16" color="202,135,21,255">
+		<UIText name="txtGold" text="500" rect="120,289,100,20" autoline="false" align="left" visible="true" layer="3" font="037_8" fontHD="037_16" color="202,135,21,255">
 		</UIText>
-		<UIText name="txtDollar" text="0" rect="195,289,100,20" autoline="false" align="left" visible="true" layer="3" font="037_8" fontHD="037_16" color="202,135,21,255">
+		<UIText name="txtDollar" text="500000" rect="195,289,100,20" autoline="false" align="left" visible="true" layer="3" font="037_8" fontHD="037_16" color="202,135,21,255">
 		</UIText>
 		
 		<UIButton name="btnGetMoreCash" type="click" rect="285, 278, 173, 38" enable="true" visible="true" layer="5">
